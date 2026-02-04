@@ -1,0 +1,14 @@
+{
+  "old_file": "C:/Users/12698/Desktop/考勤报表.xlsx",
+  "new_file": "C:/Users/12698/Desktop/考勤报表 (1).xlsx",
+  "sheet_for_cols": "sheet1",
+  "key_cols": [
+    "工号"
+  ],
+  "ignore_cols": [],
+  "ignore_contains": "",
+  "all_sheets": true,
+  "sheet_checks": {
+    "sheet1": true
+  }
+}
